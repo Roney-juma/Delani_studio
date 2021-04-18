@@ -49,6 +49,10 @@
 .services p{
     padding-top: 20px;
 }
+.teee{
+    margin-left: 280px;
+    padding-bottom: 120px;
+}
 .namemail{
     display: flex;
     flex-direction: row;
@@ -57,15 +61,24 @@
 }
 .name{
     margin-right: -270px;
+    background-color: inherit;
     padding-right: 350px;
-    margin-left: 300px;
+    /* margin-left: 300px; */
 }
 .email{
     margin-right: 20px;
-    padding-right: 3700px;
+    padding-right: 200px;
 }
 #message{
     align-content: center;
-    padding-right: 200px;
-    padding-left: 275px;
+    padding-right: 220px;
+    padding-left: -50px;
+    padding-bottom: 250px;
+    
+
+}
+#sub:hover{
+    /* padding-left: 300px; */
+    background-color: green;
+    color: white;
 }
