@@ -82,3 +82,16 @@
     background-color: green;
     color: white;
 }
+footer{
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    text-align: center;
+    font-weight: 400;
+}
+.social-media-mage{
+    margin-bottom: 20px;
+}
+.social-media-mage img{
+    padding-right: 10px;
+}
