@@ -49,3 +49,23 @@
 .services p{
     padding-top: 20px;
 }
+.namemail{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.name{
+    margin-right: -270px;
+    padding-right: 350px;
+    margin-left: 300px;
+}
+.email{
+    margin-right: 20px;
+    padding-right: 3700px;
+}
+#message{
+    align-content: center;
+    padding-right: 200px;
+    padding-left: 275px;
+}
