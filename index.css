@@ -1,0 +1,39 @@
+*{
+    margin: auto;
+    box-sizing: border-box;
+}
+.container{
+    width: 70%;
+}
+.top{
+    background-image: url("./IP3/assets/backgrounds/h_img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 200px;
+}
+.top h1{
+    margin-top: 20px;
+    font-size: 3em;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+.top h3{
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: medium;
+}
+.mouse{
+    margin-top: 200px;
+    padding-bottom: 50px;
+}
+.about-us{
+    text-align: center;
+    padding-top: 40px;
+}
+.about-us p{
+    padding-top: 15px;
+}
