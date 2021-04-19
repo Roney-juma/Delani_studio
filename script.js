@@ -31,7 +31,7 @@ $(Document).ready(function (){
 
 (document).ready(function(){
     $(".text").hover(function(){
-        $(this).animate
+        $(".work").toggle
 
     })
 })
