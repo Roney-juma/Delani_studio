@@ -73,6 +73,9 @@
     margin-left: 280px;
     padding-bottom: 120px;
 }
+.collapse{
+    width: 400px;
+}
 .namemail{
     display: flex;
     flex-direction: row;
@@ -84,6 +87,9 @@
     background-color: inherit;
     padding-right: 350px;
     /* margin-left: 300px; */
+}
+#text-img{
+    padding-left: 10px;
 }
 .email{
     margin-right: 20px;
