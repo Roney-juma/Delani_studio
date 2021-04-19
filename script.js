@@ -56,18 +56,18 @@ $(document).ready(function(){
 //     });
     
 // })
-// $(document).ready(function(){
-//     $(".text").hover(function(){
-//         $(this).animate({
-//             opacity: '5'
-//         })
+$(document).ready(function(){
+    $(".text").hover(function(){
+        $(this).animate{
+            opacity: '5'
+        }
 
-//     })
-//     function(){
-//         $(this).animate({
-//             opacity: '0'
-//         })
-//     }
+    })
+    function(){
+        $(this).animate({
+            opacity: '0'
+        })
+    }
     
-// })
+})
 $('.collapse').collapse()

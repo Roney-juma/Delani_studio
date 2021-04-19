@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 .containe{
-    width: 80%;
+    width: 70%;
 }
 .top{
     background-image: url("./IP3/assets/backgrounds/h_img.jpg");
@@ -54,6 +54,12 @@
     margin-top: 50px;
     font-size: 1.2em;
 }
+.we-do-h22{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 1.2em;
+}
 .what-we-do{
     display: flex;
     flex-direction: row;
@@ -75,6 +81,9 @@
 }
 .collapse{
     width: 400px;
+}
+#roow{
+    padding-bottom: 40px;
 }
 .namemail{
     display: flex;
